@@ -1,0 +1,5 @@
+the quick brown fox jumps over the lazy dog
+the quick brown bear sleeps
+the lazy fox plays chess
+the energetic dog eats a bone
+the stationary bone gets eaten
